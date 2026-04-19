@@ -59,10 +59,11 @@ A sleek, interactive Pokedex application built with **React Native** and **Expo*
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="./assets/screenshots/home.png" width="300" title="Home Screen" alt="Home Screen">
-  <img src="./assets/screenshots/details.png" width="300" title="Pokemon Details" alt="Pokemon Details">
-</p>
+<img width="576" height="1280" alt="5415784328551144169" src="https://github.com/user-attachments/assets/fff6ea29-b501-4ead-a5a1-463a427481c2" />
+<img width="576" height="1280" alt="5415784328551144170" src="https://github.com/user-attachments/assets/ba365c17-93c9-4225-8047-ab386dc960a5" />
+
+
+
 
 ---
 
